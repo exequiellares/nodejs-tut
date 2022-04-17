@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Express tutorial - Mongo Async Crud",
   "engines": {
-    "node": "17.x"
+    "node": "16.x"
   },
   "main": "server.js",
   "scripts": {
