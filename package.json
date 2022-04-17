@@ -1,5 +1,5 @@
 {
-  "name": "15tut",
+  "name": "nodejs-tut",
   "version": "1.0.0",
   "description": "Express tutorial - Mongo Async Crud",
   "main": "server.js",
