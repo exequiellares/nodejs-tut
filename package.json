@@ -2,6 +2,9 @@
   "name": "nodejs-tut",
   "version": "1.0.0",
   "description": "Express tutorial - Mongo Async Crud",
+  "engines": {
+    "node": "17.x"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server",
